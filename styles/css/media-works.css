@@ -1,0 +1,148 @@
+@media screen and (max-width: 1440px) {
+  .howWork .howWork-bg {
+    top: 343px;
+    left: 402px;
+  }
+  .howWork .howWork-content .howWork-content_pnone {
+    width: 50%;
+  }
+  .howWork .howWork-content .howWork-content_text {
+    padding-top: 90px;
+    width: 37%;
+  }
+  .howWork .howWork-content .howWork-content_text h1 {
+    font-size: 3.1rem;
+    margin-bottom: 55px;
+  }
+  .howWork .howWork-content .howWork-content_text p {
+    font-size: 1.5rem;
+    margin-bottom: 40px;
+  }
+  .howWork .howWork-content .howWork-content_text .last-par {
+    margin-bottom: 45px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .howWork .howWork-bg {
+    top: 280px;
+    left: 275px;
+  }
+  .howWork .howWork-content .howWork-content_pnone {
+    width: 46%;
+  }
+  .howWork .howWork-content .howWork-content_text {
+    padding-top: 45px;
+    width: 37%;
+  }
+  .howWork .howWork-content .howWork-content_text h1 {
+    font-size: 2.6rem;
+    margin-bottom: 40px;
+  }
+  .howWork .howWork-content .howWork-content_text p {
+    font-size: 1.2rem;
+    margin-bottom: 25px;
+  }
+  .howWork .howWork-content .howWork-content_text .last-par {
+    margin-bottom: 35px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .howWork .howWork-bg {
+    top: 231px;
+    left: 200px;
+  }
+  .howWork .howWork-content {
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+  }
+  .howWork .howWork-content .howWork-content_text {
+    width: 60%;
+    padding-top: 20px;
+  }
+  .howWork .howWork-content .howWork-content_text h1 {
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .howWork .howWork-content .howWork-content_pnone {
+    width: 60%;
+  }
+  .howWork .howWork-content .howWork-content_pnone img {
+    width: 115%;
+  }
+  .howWork .howWork-content .howWork-content_text h1 {
+    font-size: 2rem;
+  }
+  .howWork .howWork-content .howWork-content_text p {
+    font-size: 1rem;
+  }
+  .howWork .howWork-bg {
+    top: 233px;
+    left: 194px;
+  }
+  .howWork .howWork-bg img {
+    width: 65%;
+  }
+}
+@media screen and (max-width: 426px) {
+  .howWork {
+    padding-top: 55px;
+    padding-bottom: 55px;
+  }
+  .howWork .howWork-bg {
+    top: 180px;
+    left: 155px;
+  }
+  .howWork .howWork-content {
+    padding: 0px 7.5%;
+  }
+  .howWork .howWork-content .howWork-content_pnone {
+    width: 70%;
+  }
+  .howWork .howWork-content .howWork-content_pnone img {
+    width: 154%;
+  }
+  .howWork .howWork-content .howWork-content_text {
+    width: 57%;
+  }
+  .howWork .howWork-content .howWork-content_text h1 {
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+  .howWork .howWork-content .howWork-content_text p {
+    font-size: .9rem;
+    margin-bottom: 8px;
+  }
+}
+@media screen and (max-width: 376px) {
+  .howWork .howWork-bg {
+    top: 150px;
+    left: 105px;
+  }
+  .howWork .howWork-content .howWork-content_text .last-par {
+    margin-bottom: 13px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .howWork .howWork-content {
+    padding: 0;
+  }
+  .howWork .howWork-content .howWork-content_pnone img {
+    margin-left: -44px;
+    width: 141%;
+  }
+  .howWork .howWork-content .howWork-content_text {
+    padding-top: 0;
+  }
+  .howWork .howWork-content .howWork-content_text .howWork-content_text__social .apple-icon {
+    margin-right: 7px;
+    width: 30px;
+  }
+  .howWork .howWork-content .howWork-content_text .howWork-content_text__social .apple-icon img {
+    width: 100%;
+  }
+  .howWork .howWork-content .howWork-content_text .howWork-content_text__social .xline {
+    margin-right: 17px;
+  }
+}

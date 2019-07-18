@@ -1,0 +1,18 @@
+@import './css/header.css';
+@import './css/media-header.css';
+@import './css/howWork.css';
+@import './css/media-works.css';
+@import './css/clients.css';
+@import './css/media-clients.css';
+@import './css/footer.css';
+@import './css/media-footer.css';
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800|Roboto:300,400,500,700,900&display=swap');
+.container {
+    width: 94.79%;
+    margin: 0 auto;
+}
+
+html,
+body {
+    font-size: 16px;
+}
